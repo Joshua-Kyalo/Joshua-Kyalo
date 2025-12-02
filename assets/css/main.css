@@ -3945,6 +3945,10 @@ input, select, textarea {
 
 		}
 
+	.project-images{
+		margin: 1rem 2rem;
+	}
+
 /* Footer */
 
 	#footer {
