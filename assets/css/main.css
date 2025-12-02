@@ -2600,7 +2600,6 @@ input, select, textarea {
 		border: 0;
 		display: inline-block;
 		position: relative;
-		cursor: pointer;
 	}
 
 		.image img {
