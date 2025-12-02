@@ -2586,12 +2586,21 @@ input, select, textarea {
 			font-family: 'Font Awesome 5 Brands';
 		}
 
+
+/* Project images */
+
+	.project-images .image{
+		height: 100%;
+		width: 100%;
+		padding: .5rem 1rem;
+	}
 /* Image */
 
 	.image {
 		border: 0;
 		display: inline-block;
 		position: relative;
+		cursor: pointer;
 	}
 
 		.image img {
@@ -3945,9 +3954,7 @@ input, select, textarea {
 
 		}
 
-	.project-images{
-		margin: 1rem 2rem;
-	}
+
 
 /* Footer */
 
